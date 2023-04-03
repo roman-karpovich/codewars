@@ -3,4 +3,5 @@ resolver = "2"
 
 members = [
     "kata_5/isbn_validator",
+    "kata_4/twice_linear",
 ]
